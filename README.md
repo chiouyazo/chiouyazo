@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kraecktus
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning js, html, css
-- 💞️ I’m working on several websites, a multiplayer based game and more
+@kraecktus
+-Interested in Anime
+-learning: C#(Main) js(not much but a bit), html(yes), css(cause of html)
+-I’m working on Multiplayer Based Games, Websites, Programs and Apps For Schools!
