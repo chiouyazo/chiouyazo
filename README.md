@@ -5,10 +5,9 @@ Fullstack / C# .NET Software Engineer
 -------------------------------------
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [chiouya.cloud](http://chiouya.cloud)
+* 🖥️  See my website at [chiouya.cloud](http://chiouya.cloud)
 * ✉️  You can contact me at [contact@chiouya.cloud](mailto:contact@chiouya.cloud)
 * 🚀  I'm currently working on [AutoTF](http://autotf.de)
-* 🧠  I'm learning YOLO - OpenCV
 
 ### Skills
 
