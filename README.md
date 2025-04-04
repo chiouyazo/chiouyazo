@@ -1,4 +1,4 @@
-Hi 👋 My name is Max
+Hi, my name is Max
 ====================
 
 Fullstack / C# .NET Software Engineer
@@ -7,7 +7,9 @@ Fullstack / C# .NET Software Engineer
 * 🌍  I'm based in Germany
 * 🖥️  See my website at [chiouya.cloud](http://chiouya.cloud)
 * ✉️  You can contact me at [contact@chiouya.cloud](mailto:contact@chiouya.cloud)
+
 * 🚀  I'm currently working on [AutoTF](http://autotf.de)
+-> Building fully autonomous trains in germany
 
 ### Skills
 
