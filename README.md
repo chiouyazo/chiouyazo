@@ -7,10 +7,9 @@ Fullstack / C# .NET Software Engineer
 -------------------------------------
 
 * 🌍  I'm based in Germany
-* 🖥️  See my website at [chiouya.cloud](http://chiouya.cloud)
 * ✉️  You can contact me at [contact@chiouya.cloud](mailto:contact@chiouya.cloud)
 
-* 🚀  I'm currently working at [creativITy GmbH]([http://autotf.de](https://www.creativity-gmbh.de/)) full time
+* 🚀  I'm currently working at [creativITy GmbH](https://www.creativity-gmbh.de/) full time
 
 ### Skills
 
