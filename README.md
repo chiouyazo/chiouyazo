@@ -3,7 +3,7 @@
 Hi, my name is Max
 ====================
 
-Fullstack / C# .NET Software Engineer
+Fullstack / C# .NET Software & DevOps Engineer 
 -------------------------------------
 
 * 🌍  I'm based in Germany
